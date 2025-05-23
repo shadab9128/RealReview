@@ -1,1 +1,2 @@
-project_id = "Your_Project_Id"
+
+project_id = "Your_Project_Id" # reeference for supabase project_id
